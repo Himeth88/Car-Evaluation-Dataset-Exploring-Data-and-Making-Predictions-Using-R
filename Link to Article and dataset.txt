@@ -1,0 +1,5 @@
+Cars Evaluation Medium Article
+https://medium.com/@himethwe2003/car-evaluation-dataset-exploring-data-and-making-predictions-using-r-16d8d5dde245
+
+Car Evaluation data set
+https://archive.ics.uci.edu/dataset/19/car+evaluation
